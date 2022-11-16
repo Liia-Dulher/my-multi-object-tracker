@@ -3,6 +3,8 @@
 
 # Multi-object trackers in Python
 Easy to use implementation of various multi-object tracking algorithms.
+[Original code]( https://github.com/adipandas/multi-object-tracker)
+Has my fixes.
 
 [![DOI](https://zenodo.org/badge/148338463.svg)](https://zenodo.org/badge/latestdoi/148338463)
 
