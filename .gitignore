@@ -2,9 +2,9 @@
 examples/video_data/
 .idea/
 examples/output.avi
-examples/pretrained_models/caffemodel_weights/
-examples/pretrained_models/tensorflow_weights/
-examples/pretrained_models/yolo_weights/
+# examples/pretrained_models/caffemodel_weights/
+# examples/pretrained_models/tensorflow_weights/
+# examples/pretrained_models/yolo_weights/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
